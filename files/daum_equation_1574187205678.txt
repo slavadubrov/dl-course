@@ -1,0 +1,1 @@
+\left[ \begin{matrix} { Y }_{ 1 } \\ ... \\ { Y }_{ n } \end{matrix} \right] =\left[ \begin{matrix} { w }_{ 0 }+{ w }_{ 1 }X_{ 1 } \\ ... \\ { w }_{ 0 }+{ w }_{ 1 }X_{ n } \end{matrix} \right] 

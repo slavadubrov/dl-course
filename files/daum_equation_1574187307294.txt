@@ -1,0 +1,1 @@
+\left[ \begin{matrix} { Y }_{ 1 } \\ ... \\ { Y }_{ n } \end{matrix} \right] =\left[ \begin{matrix} 1\quad X_{ 1 } \\ ... \\ 1\quad X_{ n } \end{matrix} \right] \left[ \begin{matrix} w_{ 0 } \\ w_{ 1 } \end{matrix} \right] 

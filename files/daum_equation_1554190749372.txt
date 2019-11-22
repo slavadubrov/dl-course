@@ -1,0 +1,1 @@
+b\leftarrow b-\alpha { \Delta  }_{ b }\L 

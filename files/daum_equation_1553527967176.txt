@@ -1,0 +1,1 @@
+\L =\frac { 1 }{ N } \sum _{ i }{ D\left( S\left( w{ x }_{ i }+b \right) ,{ L }_{ i } \right)  } 

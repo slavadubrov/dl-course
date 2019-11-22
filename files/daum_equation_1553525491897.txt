@@ -1,0 +1,1 @@
+D\left( S,L \right) =-\sum _{ i }{ { L }_{ i }\log { { S }_{ i } }  } 

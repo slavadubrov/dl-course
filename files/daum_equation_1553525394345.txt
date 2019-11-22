@@ -1,0 +1,1 @@
+S\left( { y }_{ i } \right) =\frac { { e }^{ { y }_{ i } } }{ \sum _{ j }{ { e }^{ { y }_{ j } } }  } 
